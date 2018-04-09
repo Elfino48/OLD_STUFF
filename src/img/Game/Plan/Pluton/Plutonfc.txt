@@ -1,0 +1,10 @@
+img/Game/Plan/Pluton/Plutonf1.png
+img/Game/Plan/Pluton/Plutonf2.png
+img/Game/Plan/Pluton/Plutonf3.png
+img/Game/Plan/Pluton/Plutonf4.png
+img/Game/Plan/Pluton/Plutonf5.png
+img/Game/Plan/Pluton/Plutonf6.png
+img/Game/Plan/Pluton/Plutonf7.png
+img/Game/Plan/Pluton/Plutonf8.png
+img/Game/Plan/Pluton/Plutonf9.png
+img/Game/Plan/Pluton/Plutonf10.png !

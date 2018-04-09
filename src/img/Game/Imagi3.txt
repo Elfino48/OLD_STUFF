@@ -1,0 +1,12 @@
+src/img/Game/ZagTem/Gagarinp.jpg
+src/img/Game/ZagTem/Galileop.jpg
+src/img/Game/ZagTem/Habblp.jpg
+src/img/Game/ZagTem/Iogannp.jpg
+src/img/Game/ZagTem/Kassinip.jpg
+src/img/Game/ZagTem/Kinp.jpg
+src/img/Game/ZagTem/Kitp.jpg
+src/img/Game/ZagTem/Kopernikp.jpg
+src/img/Game/ZagTem/Orionp.jpg
+src/img/Game/ZagTem/Picgodp.png
+src/img/Game/ZagTem/Prolp.jpg
+src/img/Game/ZagTem/Sup1p.jpg !

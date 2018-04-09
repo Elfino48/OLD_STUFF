@@ -1,0 +1,2 @@
+img/Game/Plan/Miranda/Mirandaf1.png
+img/Game/Plan/Miranda/Mirandaf2.png !

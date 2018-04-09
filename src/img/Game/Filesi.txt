@@ -1,0 +1,27 @@
+src/img/Game/Plan/Ariel/Arielfc.txt
+src/img/Game/Plan/Deimos/Deimosfc.txt
+src/img/Game/Plan/Diona/Dionafc.txt
+src/img/Game/Plan/Encelad/Enceladfc.txt
+src/img/Game/Plan/Europe/Europefc.txt
+src/img/Game/Plan/Ganimed/Ganimedfc.txt
+src/img/Game/Plan/Haron/Haronfc.txt
+src/img/Game/Plan/Io/Iofc.txt
+src/img/Game/Plan/Jupiter/Jupiterfc.txt
+src/img/Game/Plan/Kallisto/Kallistofc.txt
+src/img/Game/Plan/Mars/Marsfc.txt
+src/img/Game/Plan/Mercury/Mercuryfc.txt
+src/img/Game/Plan/Miranda/Mirandafc.txt
+src/img/Game/Plan/Neptune/Neptunefc.txt
+src/img/Game/Plan/Oberon/Oberonfc.txt
+src/img/Game/Plan/Phobos/Phobosfc.txt
+src/img/Game/Plan/Pluton/Plutonfc.txt
+src/img/Game/Plan/Reya/Reyafc.txt
+src/img/Game/Plan/Saturn/Saturnfc.txt
+src/img/Game/Plan/Tefia/Tefiafc.txt
+src/img/Game/Plan/Titan/Titanfc.txt
+src/img/Game/Plan/Titania/Titaniafc.txt
+src/img/Game/Plan/Triton/Tritonfc.txt
+src/img/Game/Plan/Umbriel/Umbrielfc.txt
+src/img/Game/Plan/Uran/Uranfc.txt
+src/img/Game/Plan/Venera/Venerafc.txt
+src/img/Game/Plan/Yapet/Yapetfc.txt !

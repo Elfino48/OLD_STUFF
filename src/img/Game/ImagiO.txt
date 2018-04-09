@@ -1,0 +1,18 @@
+src/img/Game/Suz/Andromeda/Andromedao.png
+src/img/Game/Suz/Blizn/Blizno.png
+src/img/Game/Suz/Delfin/Delfino.png
+src/img/Game/Suz/Dragon/Dragono.png
+src/img/Game/Suz/Gerkules/Gerkuleso.png
+src/img/Game/Suz/GonchiPsu/GPo.png
+src/img/Game/Suz/Kassiopeya/Kassiopeyao.png
+src/img/Game/Suz/Levid/Levido.png
+src/img/Game/Suz/Lira/Lirao.png
+src/img/Game/Suz/Malamedv/Malamedvo.png
+src/img/Game/Suz/MaliyLev/MalLevo.png
+src/img/Game/Suz/Oven/Oveno.png
+src/img/Game/Suz/Persey/Perseyo.png
+src/img/Game/Suz/Vel.vedm/Vel.vedmo.png
+src/img/Game/Suz/Vizn/Vizno.png
+src/img/Game/Suz/volopas/volopaso.png
+src/img/Game/Suz/VolosyVer/VolosyVero.png
+src/img/Game/Suz/Zhirafa/Zhirafao.png !

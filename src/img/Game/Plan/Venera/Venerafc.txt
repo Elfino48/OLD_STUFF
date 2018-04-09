@@ -1,0 +1,9 @@
+img/Game/Plan/Venera/Veneraf1.png
+img/Game/Plan/Venera/Veneraf2.png
+img/Game/Plan/Venera/Veneraf3.png
+img/Game/Plan/Venera/Veneraf4.png
+img/Game/Plan/Venera/Veneraf5.png
+img/Game/Plan/Venera/Veneraf6.png
+img/Game/Plan/Venera/Veneraf7.png
+img/Game/Plan/Venera/Veneraf8.png
+img/Game/Plan/Venera/Veneraf9.png !

@@ -1,0 +1,3 @@
+img/Game/Plan/Kallisto/Kallistof1.png
+img/Game/Plan/Kallisto/Kallistof2.png
+img/Game/Plan/Kallisto/Kallistof3.png !

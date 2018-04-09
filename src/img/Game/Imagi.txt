@@ -1,0 +1,27 @@
+src/img/Game/Plan/Ariel/Ariel.jpg
+src/img/Game/Plan/Deimos/Deimos.jpg
+src/img/Game/Plan/Diona/Diona.jpg
+src/img/Game/Plan/Encelad/Encelad.jpg
+src/img/Game/Plan/Europe/Europe.jpg
+src/img/Game/Plan/Ganimed/Ganimed.gif
+src/img/Game/Plan/Haron/Haron.jpg
+src/img/Game/Plan/Io/Io.jpg
+src/img/Game/Plan/Jupiter/Jupiter.jpg
+src/img/Game/Plan/Kallisto/Kallisto.jpg
+src/img/Game/Plan/Mars/Mars.jpg
+src/img/Game/Plan/Mercury/Mercury.jpg
+src/img/Game/Plan/Miranda/Miranda.jpg
+src/img/Game/Plan/Neptune/Neptune.jpg
+src/img/Game/Plan/Oberon/Oberon.jpg
+src/img/Game/Plan/Phobos/Phobos.jpg
+src/img/Game/Plan/Pluton/Pluton.jpg
+src/img/Game/Plan/Reya/Reya.jpg
+src/img/Game/Plan/Saturn/Saturn.jpg
+src/img/Game/Plan/Tefia/Tefia.jpg
+src/img/Game/Plan/Titan/Titan.jpg
+src/img/Game/Plan/Titania/Titania.jpg
+src/img/Game/Plan/Triton/Triton.jpg
+src/img/Game/Plan/Umbriel/Umbriel.jpg
+src/img/Game/Plan/Uran/Uran.jpg
+src/img/Game/Plan/Venera/Venera.jpg
+src/img/Game/Plan/Yapet/Yapet.jpg !

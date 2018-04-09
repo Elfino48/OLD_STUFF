@@ -1,0 +1,3 @@
+img/Game/Plan/Europe/Europef1.png
+img/Game/Plan/Europe/Europef2.png
+img/Game/Plan/Europe/Europef3.png !

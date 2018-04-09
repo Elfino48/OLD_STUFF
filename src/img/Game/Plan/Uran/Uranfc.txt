@@ -1,0 +1,8 @@
+img/Game/Plan/Uran/Uranf1.png
+img/Game/Plan/Uran/Uranf2.png
+img/Game/Plan/Uran/Uranf3.png
+img/Game/Plan/Uran/Uranf4.png
+img/Game/Plan/Uran/Uranf5.png
+img/Game/Plan/Uran/Uranf6.png
+img/Game/Plan/Uran/Uranf7.png
+img/Game/Plan/Uran/Uranf8.png !

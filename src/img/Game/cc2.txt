@@ -1,0 +1,12 @@
+img/Game/ZagTem/Gagarinc.png
+img/Game/ZagTem/Galileoc.png
+img/Game/ZagTem/Habblc.png
+img/Game/ZagTem/Iogannc.png
+img/Game/ZagTem/Kassinic.png
+img/Game/ZagTem/Kinc.png
+img/Game/ZagTem/Kitc.png
+img/Game/ZagTem/Kopernikc.png
+img/Game/ZagTem/Orionc.png
+img/Game/ZagTem/Picgodc.png
+img/Game/ZagTem/Prolc.png
+img/Game/ZagTem/Sup1c.png !

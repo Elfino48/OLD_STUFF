@@ -1,0 +1,12 @@
+img/Game/ZagTem/Gagarinf.png
+img/Game/ZagTem/Galileof.png
+img/Game/ZagTem/Habblf.png
+img/Game/ZagTem/Iogannf.png
+img/Game/ZagTem/Kassinif.png
+img/Game/ZagTem/Kinf.png
+img/Game/ZagTem/Kitf.png
+img/Game/ZagTem/Kopernikf.png
+img/Game/ZagTem/Orionf.png
+img/Game/ZagTem/Picgodf.png
+img/Game/ZagTem/Prolf.png
+img/Game/ZagTem/Sup1f.png !

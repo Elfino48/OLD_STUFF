@@ -1,0 +1,4 @@
+img/Game/Plan/Titan/Titanf1.png
+img/Game/Plan/Titan/Titanf2.png
+img/Game/Plan/Titan/Titanf3.png
+img/Game/Plan/Titan/Titanf4.png !

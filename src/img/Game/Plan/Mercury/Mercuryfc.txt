@@ -1,0 +1,7 @@
+img/Game/Plan/Mercury/Mercuryf1.png
+img/Game/Plan/Mercury/Mercuryf2.png
+img/Game/Plan/Mercury/Mercuryf3.png
+img/Game/Plan/Mercury/Mercuryf4.png
+img/Game/Plan/Mercury/Mercuryf5.png
+img/Game/Plan/Mercury/Mercuryf6.png
+img/Game/Plan/Mercury/Mercuryf7.png !

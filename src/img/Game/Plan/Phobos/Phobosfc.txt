@@ -1,0 +1,3 @@
+img/Game/Plan/Phobos/Phobosf1.png
+img/Game/Plan/Phobos/Phobosf2.png
+img/Game/Plan/Phobos/Phobosf3.png !

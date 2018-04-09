@@ -1,0 +1,3 @@
+img/Game/Plan/Ganimed/Ganimedf1.png
+img/Game/Plan/Ganimed/Ganimedf2.png
+img/Game/Plan/Ganimed/Ganimedf3.png !
